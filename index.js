@@ -1,3 +1,3 @@
 // Write your code here!
 
-document.GetElementById
+document.getElementById
