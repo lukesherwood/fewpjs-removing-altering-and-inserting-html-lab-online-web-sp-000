@@ -1,3 +1,2 @@
 // Write your code here!
-
-document.delete(getElementById('main'))
+document.querySelector("main#main").remove();
