@@ -1,3 +1,3 @@
 // Write your code here!
 
-document.hide(getElementById('main'))
+document.delete(getElementById('main'))
